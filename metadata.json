@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of BabySteps",
+  "description": "The Ultimate Parenting Companion (0-5 Years). Tracks growth, sleep, nutrition, and milestones with AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
